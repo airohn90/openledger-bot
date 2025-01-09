@@ -1,5 +1,5 @@
 # openledger-bot
-这是 [OpenLedger](https://testnet.openledger.xyz/dashboard) 自动签到、获取任务奖励机器人，仅用于个人学习
+这是 [OpenLedger](https://testnet.openledger.xyz/?referral_code=i3spcrzdtm) 自动签到、获取任务奖励机器人，仅用于个人学习
 
 
 ## 当前node版本:
